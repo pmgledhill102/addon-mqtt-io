@@ -1,0 +1,11 @@
+name: "mqtt-io"
+description: "HA plug-in for the popular flyte/mqtt-io service"
+version: "1.0.0"
+slug: "mqtt-io"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
