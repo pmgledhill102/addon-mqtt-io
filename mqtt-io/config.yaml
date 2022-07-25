@@ -1,6 +1,5 @@
 name: "mqtt-io"
-description: >-
-  "HA plug-in for the popular flyte/mqtt-io service"
+description: "HA plug-in for the popular flyte/mqtt-io service"
 version: "1.0.0"
 slug: "mqtt-io"
 init: false
@@ -17,4 +16,5 @@ services:
   - mqtt:need
 startup: application
 gpio: true
-privileged: SYS_RAWIO
+privileged:
+  - SYS_RAWIO
