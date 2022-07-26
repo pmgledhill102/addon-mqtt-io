@@ -1,4 +1,8 @@
-# Home Assistant Plugin - MQTT
+# DEPRECATED - No longer maintained
+
+Please note - that there was an official plug-in written to wrap the mqtt-io daemon, and I am using that instead of writing and maintaining my own code: <https://github.com/hassio-addons/repository/tree/master/mqtt-io>. I've left the repo, in case I need to pick my project up again in the future
+
+## Home Assistant Plugin - MQTT
 
 This is a Home Assistant Plugin for the excellent [flyte/mqtt-io]([https://](https://github.com/flyte/mqtt-io/)) service.
 
