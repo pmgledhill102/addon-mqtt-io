@@ -1,0 +1,4 @@
+mqtt:
+  host: { { my_env('MQTT_HOST') } }
+  user: { { my_env('MQTT_USER') } }
+  password: { { my_env('MQTT_PASSWORD') } }
