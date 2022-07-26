@@ -1,5 +1,7 @@
 # DEPRECATED - No longer maintained
 
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Abandoned-orange.svg)
+
 Please note - that there was an official plug-in written to wrap the mqtt-io daemon, and I am using that instead of writing and maintaining my own code: <https://github.com/hassio-addons/repository/tree/master/mqtt-io>. I've left the repo, in case I need to pick my project up again in the future
 
 ## Home Assistant Plugin - MQTT
